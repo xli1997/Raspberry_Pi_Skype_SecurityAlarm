@@ -1,0 +1,12 @@
+C:\Users\Xiaowei Li\Documents\Visual Studio 2008\Projects\SkypeCaller\SkypeCaller\bin\Release\SkypeCaller.exe
+C:\Users\Xiaowei Li\Documents\Visual Studio 2008\Projects\SkypeCaller\SkypeCaller\bin\Release\SkypeCaller.pdb
+C:\Users\Xiaowei Li\Documents\Visual Studio 2008\Projects\SkypeCaller\SkypeCaller\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Xiaowei Li\Documents\Visual Studio 2008\Projects\SkypeCaller\SkypeCaller\obj\Release\SkypeCaller.exe
+C:\Users\Xiaowei Li\Documents\Visual Studio 2008\Projects\SkypeCaller\SkypeCaller\obj\Release\SkypeCaller.pdb
+C:\AlarmSkype\SkypeCaller\SkypeCaller\obj\Release\SkypeCaller.exe
+C:\AlarmSkype\SkypeCaller\SkypeCaller\obj\Release\SkypeCaller.pdb
+C:\AlarmSkype\SkypeCaller\SkypeCaller\bin\Release\SkypeCaller.exe
+C:\AlarmSkype\SkypeCaller\SkypeCaller\bin\Release\SkypeCaller.pdb
+C:\AlarmSkype\SkypeCaller\SkypeCaller\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Xiaowei Li\Documents\GitHub\Raspberry_Pi_Skype_SecurityAlarm\SkypeCaller\SkypeCaller\obj\Release\SkypeCaller.exe
+C:\Users\Xiaowei Li\Documents\GitHub\Raspberry_Pi_Skype_SecurityAlarm\SkypeCaller\SkypeCaller\obj\Release\SkypeCaller.pdb

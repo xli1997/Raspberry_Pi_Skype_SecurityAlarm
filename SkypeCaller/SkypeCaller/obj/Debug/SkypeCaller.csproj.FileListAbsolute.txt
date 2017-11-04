@@ -1,0 +1,10 @@
+C:\Users\Xiaowei Li\Documents\Visual Studio 2008\Projects\SkypeCaller\SkypeCaller\bin\Debug\SkypeCaller.exe
+C:\Users\Xiaowei Li\Documents\Visual Studio 2008\Projects\SkypeCaller\SkypeCaller\bin\Debug\SkypeCaller.pdb
+C:\Users\Xiaowei Li\Documents\Visual Studio 2008\Projects\SkypeCaller\SkypeCaller\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Xiaowei Li\Documents\Visual Studio 2008\Projects\SkypeCaller\SkypeCaller\obj\Debug\SkypeCaller.exe
+C:\Users\Xiaowei Li\Documents\Visual Studio 2008\Projects\SkypeCaller\SkypeCaller\obj\Debug\SkypeCaller.pdb
+C:\AlarmSkype\SkypeCaller\SkypeCaller\obj\Debug\SkypeCaller.exe
+C:\AlarmSkype\SkypeCaller\SkypeCaller\obj\Debug\SkypeCaller.pdb
+C:\AlarmSkype\SkypeCaller\SkypeCaller\bin\Debug\SkypeCaller.exe
+C:\AlarmSkype\SkypeCaller\SkypeCaller\bin\Debug\SkypeCaller.pdb
+C:\AlarmSkype\SkypeCaller\SkypeCaller\obj\Debug\ResolveAssemblyReference.cache
